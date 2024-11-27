@@ -4,7 +4,7 @@
 
 ## 🤔 What is this?
 
-GitHub Graph Hack is a tool that generates random commits across your git history to experiment with GitHub's contribution graph visualization. It's built to demonstrate how git commit dating works
+GitHub Graph Hack is a tool that generates random commits across your git history to experiment with GitHub's contribution graph visualization
 
 ## 🚀 Getting Started
 
@@ -31,3 +31,5 @@ bun install
 ```bash
 bun start
 ```
+
+Don't forget to make your repo private 😉
