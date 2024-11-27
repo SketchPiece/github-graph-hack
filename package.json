@@ -1,0 +1,20 @@
+{
+  "name": "github-graph-hack",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "inquirer": "^12.1.0",
+    "ora": "^8.1.1",
+    "simple-git": "^3.27.0"
+  }
+}
